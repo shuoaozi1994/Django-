@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4654433f-b5c6-48ed-9f69-672e4193b91f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="bkxm" />
+  </component>
+  <component name="ProjectId" id="1hXVEALeeYX8SUOOquVrpwVL9EV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/month01" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4654433f-b5c6-48ed-9f69-672e4193b91f" name="Default Changelist" comment="" />
+      <created>1600157309709</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600157309709</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="381" y="178" width="424" height="484" key="FileChooserDialogImpl" timestamp="1600166397340">
+      <screen x="67" y="27" width="1072" height="806" />
+    </state>
+    <state x="374" y="221" width="424" height="484" key="FileChooserDialogImpl/67.27.1048.1033@67.27.1048.1033" timestamp="1600157646739" />
+    <state x="381" y="178" key="FileChooserDialogImpl/67.27.1072.806@67.27.1072.806" timestamp="1600166397340" />
+    <state x="72" y="65" key="SettingsEditor" timestamp="1600158517943">
+      <screen x="67" y="27" width="1072" height="806" />
+    </state>
+    <state x="72" y="65" key="SettingsEditor/67.27.1072.806@67.27.1072.806" timestamp="1600158517943" />
+  </component>
+</project>
